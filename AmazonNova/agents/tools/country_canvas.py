@@ -14,7 +14,7 @@ def country_canvas_toolspec() -> json:
     '''Canvas Tool Specificaitons'''
     
     return { "toolSpec": {
-            "name": "Country_Canvas_cTool",
+            "name": "Country_Canvas_Tool",
             "description": "Generate the image of the given country,representing the most typical country's characteristics,incorporating its flag.",
             "inputSchema": {
                 "json": {
